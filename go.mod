@@ -1,5 +1,3 @@
-module github.com/Jon-Bernal/learning-go
+module github.com/Jon-Bernal/go-basics
 
 go 1.16
-
-require rsc.io/quote v1.5.2
